@@ -1,4 +1,4 @@
-This is a list with contents below.
+
 Crimson
 Orange
 Blue
@@ -6,4 +6,9 @@ Cyan
 Yellow
 Charcoal
 Khaki
-
+Coral
+Silver
+Fuchsia
+Purple
+Brown
+Red
